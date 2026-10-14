@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Kachalin.ac695f3b\\x64\\Debug\\Settings.obj",
+            "outputs": [
+                "Kachalin.ac695f3b\\x64\\Debug\\Settings.h.obj.dt.module.json",
+                "Kachalin.ac695f3b\\x64\\Debug\\Settings.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

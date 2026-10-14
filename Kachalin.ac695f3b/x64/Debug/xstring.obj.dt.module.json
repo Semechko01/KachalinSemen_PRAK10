@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Kachalin.ac695f3b\\x64\\Debug\\xstring.obj",
+            "outputs": [
+                "Kachalin.ac695f3b\\x64\\Debug\\xstring.obj.dt.module.json",
+                "Kachalin.ac695f3b\\x64\\Debug\\xstring.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

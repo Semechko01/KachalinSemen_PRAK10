@@ -1,0 +1,13 @@
+﻿  KachalinSemen_PRAK10.cpp
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK10\KachalinSemen_PRAK10.cpp(91,21): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK10\KachalinSemen_PRAK10.cpp(93,22): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK10\KachalinSemen_PRAK10.cpp(172,23): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK10\KachalinSemen_PRAK10.cpp(234,22): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK10\KachalinSemen_PRAK10.cpp(243,34): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK10\KachalinSemen_PRAK10.cpp(324,35): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK10\KachalinSemen_PRAK10.cpp(325,35): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK10\KachalinSemen_PRAK10.cpp(339,33): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK10\KachalinSemen_PRAK10.cpp(340,34): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK10\KachalinSemen_PRAK10.cpp(343,32): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK10\KachalinSemen_PRAK10.cpp(344,32): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  KachalinSemen_PRAK10.vcxproj -> C:\Users\st310-04\Downloads\KachalinSemen_PRAK10\x64\Debug\KachalinSemen_PRAK10.exe
